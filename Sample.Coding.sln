@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 - Tests", "99 - Tests", "{8649734B-E5BC-4A30-8BAC-B4B2A2C123CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Tests", "99 - Tests\Coding.Tests\Coding.Tests.csproj", "{A3201B11-0401-4436-8861-567C2D9D3A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3201B11-0401-4436-8861-567C2D9D3A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3201B11-0401-4436-8861-567C2D9D3A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3201B11-0401-4436-8861-567C2D9D3A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3201B11-0401-4436-8861-567C2D9D3A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3201B11-0401-4436-8861-567C2D9D3A07} = {8649734B-E5BC-4A30-8BAC-B4B2A2C123CC}
+	EndGlobalSection
+EndGlobal
