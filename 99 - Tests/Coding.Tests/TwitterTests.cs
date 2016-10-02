@@ -9,7 +9,7 @@ namespace Coding.Tests
     /// <summary>
     /// Tests to twitter API.
     /// </summary>
-    /// <Author>Jose Mauro da Silva Sandy - Rerum</Author>
+    /// <Author>Jose Mauro da Silva Sandy</Author>
     /// <Date>10/1/2016 10:39:57 PM</Date>
     [TestClass]
     public class TwitterTests

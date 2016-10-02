@@ -69,7 +69,7 @@ namespace Coding.Tests
     /// <summary>
     /// Tests to game theory.
     /// </summary>
-    /// <Author>Jose Mauro da Silva Sandy - Rerum</Author>
+    /// <Author>Jose Mauro da Silva Sandy</Author>
     /// <Date>10/1/2016 8:52:38 PM</Date>
     [TestClass]
     public class GameTheoryTests
